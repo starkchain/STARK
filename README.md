@@ -1,6 +1,6 @@
 # STARK CHAIN
 
-PProof Of Active konsensüs mekanizması
+Proof Of Active konsensüs mekanizması
 
 ## İLETİŞİM
 
