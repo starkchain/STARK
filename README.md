@@ -1,4 +1,4 @@
-# STARK CHAIN
+<img src="https://github.com/starkchain/STARK/blob/master/stark-256*256.png"> # STARK CHAIN
 
 Proof Of Active Konsensüs Algoritması
 
@@ -8,12 +8,3 @@ Proof Of Active Konsensüs Algoritması
 - Mail Adresi (support@starkchain.org).
 
 ## STARK CHAIN Proof Of Active Konsensüs 
-
-
-
-
-
-
-
-
-<img src="https://github.com/starkchain/STARK/blob/master/stark-256*256.png">
