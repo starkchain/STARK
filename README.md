@@ -1,4 +1,6 @@
-<img src="https://github.com/starkchain/STARK/blob/master/stark-256*256.png"> # STARK CHAIN
+<img src="https://github.com/starkchain/STARK/blob/master/stark-256*256.png"> 
+
+# STARK CHAIN
 
 Proof Of Active Konsensüs Algoritması
 
