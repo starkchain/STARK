@@ -16,4 +16,4 @@ Proof Of Active Konsensüs Algoritması
 
 
 
-<img src="https://github.com/starkchain/STARK/blob/master/stark.png">
+<img src="https://github.com/starkchain/STARK/blob/master/stark-256*256.png">
